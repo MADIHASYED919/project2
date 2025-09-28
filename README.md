@@ -1,5 +1,6 @@
-# gitlearning
+# New Project
 
-Learning git and github for personal use of my code
+prepare a new project from local system
 
 modifying code to see changes.
+
